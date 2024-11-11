@@ -1,0 +1,24 @@
+*{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    font-weight:800;
+    color:black;
+}
+
+li {
+    border:solid;
+    border-color:black;
+    margin: 10px;
+    list-style-type: none;
+    width:30%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+a {
+    color:grey;
+}
